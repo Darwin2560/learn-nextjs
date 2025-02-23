@@ -8,6 +8,6 @@ export const metadata: Metadata = {
 
 export default function About() {
     return (
-        <span className="text-5xl">Pricing Page</span>
+        <span className="text-5xl">About Page</span>
     )
 }
