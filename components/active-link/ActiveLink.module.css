@@ -1,0 +1,9 @@
+@reference "../../app/globals.css";
+
+ .link {
+    @apply text-gray-500 hover:text-gray-700 transition-colors duration-300;
+ }
+
+ .active-link {
+    @apply text-blue-500 font-semibold;
+ }
